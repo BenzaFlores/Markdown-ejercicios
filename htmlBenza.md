@@ -26,4 +26,4 @@ HTML fue desarrollado por Tim Berners-Lee a finales de los años 80 y ha sido fu
 
 Para más información sobre HTML y sus últimas actualizaciones, puedes visitar el siguiente enlace a la [documentación oficial de MDN](https://developer.mozilla.org/es/docs/Web/HTML).
 
-> **Nota**: HTML sigue siendo un elemento fundamental en el desarrollo web moderno, y su continua evolución asegura que permanezca relevante en el futuro. La simplicidad y la flexibilidad de HTML lo convierten en una herramienta poderosa para diseñar y estructurar contenido web.
+> **Nota**: HTML sigue siendo un elemento fundamental en el desarrollo web moderno, y su continua evolución asegura que permanezca relevante en el futuro. La **simplicidad** y la **versatilidad** de HTML lo convierten en una herramienta imprescindible para cualquier desarrollador web
